@@ -1,2 +1,3 @@
 # Projects
-Doing Mini Projects along with learning
+
+HTML,CSS,JavaScript mini Projects
